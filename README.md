@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HummadKhaan
-- 👀 I’m interested in Cybersecurity and Gen-AI
-- 🌱 I’m currently learning Cybersecurity and Gen-AI
+- 👀 I’m interested in Data Science, Machine Learning and Gen-AI
+- 🌱 I’m currently learning Data Science, Machine Learning and Gen-AI
 - 📫 How to reach me 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
